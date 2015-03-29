@@ -1,3 +1,2 @@
-step 1: creating README and adding new text
-making changes to the README, this is step 2.
-this is step 3
+step 1 this is my README
+this is step 2, created newbranch
